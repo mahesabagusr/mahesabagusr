@@ -1,53 +1,75 @@
-Hi there, I'm Mahesa Bagus Raditya 👋
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/mahesabagusr">
-<img src="https://github-readme-stats.vercel.app/api?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false" alt="Mahesa's GitHub Stats" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/mahesabagusr">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Mahesa's Top Languages" />
-</a>
+  <h1> Hi there, I'm Mahesa Bagus Raditya 👋</h1>
 </p>
 
-👨‍💻 About Me
-I'm a passionate Backend Developer focused on building robust and efficient server-side applications. I enjoy tackling challenges and architecting the logic that powers smooth, seamless user experiences. My goal is to write clean, scalable, and maintainable code that makes a difference.
+<p align="center">
+  <a href="https://github.com/mahesabagusr">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false" alt="Mahesa's GitHub Stats" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesabagusr&theme=react&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
 
-🛠️ Tech Stack & Tools
-Here are some of the technologies I'm proficient in:
+## 👨‍💻 About Me  
+I'm a passionate **Backend Developer** specializing in building scalable APIs and robust server-side systems.  
 
-Languages & Frameworks:
+- ⚡ Currently exploring **TypeScript & Go** to expand my backend expertise.  
+- 🌱 Learning **microservices & event-driven architecture**   
+- 💡 Always curious about solving practical problems and learning through open-source projects.  
+- 🎯 Goal: Become a **Fullstack Backend Specialist** mastering performance, security, and scalability.  
 
+## 🛠️ Tech Stack & Tools
+
+### 🚀 Proficient
 <p>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-<a href="#"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+<a><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a><img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
 </p>
 
-Databases:
-
+### 🌟 Intermediate
 <p>
-<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+<a><img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+<a><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+<a><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 </p>
 
-Frontend & Styling:
-
+### 📖 Beginner / Exploring
 <p>
-<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+<a><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 </p>
 
-Tools & Others:
-
+### 🗄️ Databases
 <p>
-<a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-<a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+<a><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
+
+### 🧰 Tools & Platforms
+<p>
+<a><img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+<a><img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
+<a><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<a><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"></a>
+<a><img alt="Cloudinary" src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white"></a>
+<a><img alt="Azure" src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"></a>
+<a><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+<a><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+| Language |
+| --- |
+| [![Mahesa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+
+
+## 🎉 Fun Facts About Me  
+- ⚽ I'm a **Manchester United** fan (Glory Glory Man United! 🔴⚪⚫)  
+- ☕ I can’t start my day without **kopi susu gula aren**  
+- 🎮 Love chilling with games when I’m not coding  
+- 🎵 Music fuels my coding sessions 🎧
 
 🌐 Let's Connect
 Feel free to reach out! I'm always open to connecting with fellow developers and discussing new opportunities.
