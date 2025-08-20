@@ -1,17 +1,7 @@
 <p align="center">
   <h1> Hi there, I'm Mahesa Bagus Raditya 👋</h1>
 </p>
-
-<p align="center">
-  <a href="https://github.com/mahesabagusr">
-    <img src="https://github-readme-stats.vercel.app/api?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false" alt="Mahesa's GitHub Stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesabagusr&theme=react&hide_border=false" alt="GitHub Streak" />
-  </a>
-</p>
-
-## 👨‍💻 About Me  
+ 
 I'm a passionate **Backend Developer** specializing in building scalable APIs and robust server-side systems.  
 
 - ⚡ Currently exploring **TypeScript & Go** to expand my backend expertise.  
@@ -60,9 +50,9 @@ I'm a passionate **Backend Developer** specializing in building scalable APIs an
 <a><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
-| Language |
-| --- |
-| [![Mahesa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| Language | Stats | Streak |
+| --- | --- | --- |
+| [![Mahesa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |[![Mahesa's Stats](https://github-readme-stats.vercel.app/api?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats) |[![Mahesa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahesabagusr&theme=react&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 ## 🎉 Fun Facts About Me  
