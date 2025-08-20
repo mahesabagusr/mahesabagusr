@@ -71,7 +71,7 @@ Feel free to reach out! I'm always open to connecting with fellow developers and
 <a href="https://x.com/mahesabagusr" target="_blank">
 <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
 </a>
-<a href="https://instagram.com/@mahesabagus.r" target="_blank">
+<a href="https://instagram.com/mahesabagus.r" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:mahesabagusraditya1@gmail.com">
