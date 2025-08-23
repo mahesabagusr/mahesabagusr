@@ -50,9 +50,18 @@ I'm a passionate **Backend Developer** specializing in building scalable APIs an
 <a><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
-| Language | Stats | Streak |
-| --- | --- | --- |
-| [![Mahesa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |[![Mahesa's Stats](https://github-readme-stats.vercel.app/api?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats) |[![Mahesa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahesabagusr&theme=react&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) |
+<p align="center">
+
+| Language | Stats |
+| --- | --- |
+| [![Mahesa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |[![Mahesa's Stats](https://github-readme-stats.vercel.app/api?username=mahesabagusr&theme=react&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats) |
+
+| Streak |
+| --- |
+|[![Mahesa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahesabagusr&theme=react&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) |
+
+</p>
+
 
 
 ## 🎉 Fun Facts About Me  
