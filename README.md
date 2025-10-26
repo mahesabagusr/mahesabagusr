@@ -25,11 +25,12 @@ I'm a passionate **Backend Developer** specializing in building scalable APIs an
 <a><img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 <a><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<a><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 </p>
 
 ### 📖 Beginner / Exploring
 <p>
-<a><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+<a><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases
